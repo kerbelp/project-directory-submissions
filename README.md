@@ -63,6 +63,10 @@ A separate [private campaign ledger](assets/campaign-template.json) holds fields
 - [assets/report-template.md](assets/report-template.md): final report format.
 - [references/example-report.md](references/example-report.md): fictional example.
 
+## Product build specification
+
+The [product specification](docs/PRODUCT-SPEC.md) describes a separate paid, assisted submission service built around this workflow. It includes the MVP, customer/operator screens, data model, billing and authorization rules, report contract, and acceptance criteria. Use the [fresh-session build prompt](docs/BUILD-HANDOFF.md) to hand implementation to another coding session.
+
 ## Contributing
 
 Suggest destinations with official sources, check dates, audience fit, and conditions. Label unverified candidates and disclose affiliations. Do not submit third-party products merely to test the skill. Preserve research-only mode, truthful reporting, and spending boundaries.

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "",
+    "homepage_url": "",
+    "repository_url": null,
+    "documentation_url": null,
+    "business_contact": "",
+    "tagline": "",
+    "description": "",
+    "fact_sources": [],
+    "approved_asset_paths": []
+  },
+  "scope": {
+    "mode": "research_only",
+    "budget_currency": "USD",
+    "total_authorized": 0,
+    "paid_authorizations": [],
+    "excluded_sites": []
+  },
+  "updated_at": null,
+  "entries": [],
+  "entry_template": {
+    "site": "",
+    "official_submission_url": "",
+    "eligibility_and_cost_source_url": "",
+    "checked_at": null,
+    "fit_reason": "",
+    "cost_class": "unknown",
+    "advertised_price": null,
+    "currency": null,
+    "billing_cadence": null,
+    "selected_plan": null,
+    "purchase_authorization": null,
+    "amount_committed": 0,
+    "amount_charged": null,
+    "payment_status": "not_applicable",
+    "status": "candidate",
+    "submitted_homepage_url": null,
+    "supplementary_repository_url": null,
+    "public_listing_url": null,
+    "public_page_verified_at": null,
+    "receipt_url": null,
+    "management_url": null,
+    "launch_date": null,
+    "launch_time_and_timezone": null,
+    "publication_conditions": [],
+    "evidence_paths": [],
+    "next_action": null,
+    "history": []
+  },
+  "usage_notes": [
+    "Keep private. Copy entry_template into entries for each candidate; the template itself is not a submission.",
+    "Use null for unknown amounts/dates, never guessed zeros or URLs. Monetary values need currency and cadence.",
+    "Modes: research_only, prepare, submit, resume. Listing states are defined in SKILL.md.",
+    "Paid authorizations record destination, plan, currency, ceiling, cadence, and owner authorization reference; no credentials/card data.",
+    "Commitments reserve budget while charges are pending. Do not double-count a confirmed charge and its own commitment. Keep currencies separate unless an owner-approved conversion basis exists.",
+    "Recurring plans need cadence and an authorized commitment period; monthly price alone is not total campaign cost.",
+    "History items record timestamp, observed state, action/result, and evidence. Preserve receipt and public listing URLs separately.",
+    "Do not retain token-bearing URLs, credentials, cookies, payment details, or private email contents. Redact sensitive evidence.",
+    "Public exports omit contact details, private receipts, management URLs, and sensitive evidence unless explicitly requested for that audience."
+  ]
+}

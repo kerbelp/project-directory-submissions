@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Directory Submissions"
+  short_description: "Research, submit, and track free and paid listings"
+  default_prompt: "Use $project-directory-submissions to find suitable directories for my project, submit within my approved budget, and report verified listing links and statuses."

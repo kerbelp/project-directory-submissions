@@ -4,6 +4,12 @@ An independent agent skill for researching suitable directories, preparing accur
 
 Use it for a startup, SaaS product, AI application, open-source project, or developer tool. Eligibility is checked per destination; inclusion in the catalog does not mean every project belongs there.
 
+## A real submission run
+
+<img src="assets/antaeus-submission-inbox.png" alt="Antaeus inbox showing directory submission receipts, a scheduled Uneed launch, a StackShare listing confirmation, and account emails" width="520">
+
+Antaeus's inbox after the submission workflow that informed this skill. These emails show a mix of received submissions, launch scheduling, a listing confirmation, and account setup. Each directory's actual publication status is tracked separately in the final report.
+
 ## What it does
 
 - Builds a factual product profile with the homepage as the default website link.

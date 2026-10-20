@@ -19,7 +19,7 @@ Antaeus's inbox after the submission workflow that informed this skill. These em
 - Distinguishes live pages, review, scheduled launches, receipts, and human handoffs.
 - Records progress and evidence to avoid duplicate submissions or charges.
 
-The [seed catalog](references/catalog.md) includes free, conditional-free, and paid destinations. **AI Collection is a paid candidate affiliated with this skill's maintainer.** It receives no automatic priority. Recheck prices and requirements when used.
+Explore **300+ directory research starting points** across the [seed catalog](references/catalog.md) and [additional directory candidates](references/directory-candidates.md). The original pilot notes remain separate from the new homepage observations; inclusion does not mean a submission workflow has been tested. New candidates have unknown costs until checked. **AI Collection is a paid candidate affiliated with this skill's maintainer.** It receives no automatic priority. Recheck prices and requirements when used.
 
 ## Use it
 
@@ -59,6 +59,8 @@ A separate [private campaign ledger](assets/campaign-template.json) holds fields
 - [SKILL.md](SKILL.md): workflow.
 - [agents/openai.yaml](agents/openai.yaml): optional agent UI metadata.
 - [references/catalog.md](references/catalog.md): dated directory starting points.
+- [references/directory-candidates.md](references/directory-candidates.md): additional directory candidates by audience, with source dates and access observations.
+- [references/directory-candidates.json](references/directory-candidates.json): machine-readable candidate data; [catalog-summary.json](references/catalog-summary.json) records the deduplicated count.
 - [assets/campaign-template.json](assets/campaign-template.json): private ledger template.
 - [assets/report-template.md](assets/report-template.md): final report format.
 - [references/example-report.md](references/example-report.md): fictional example.

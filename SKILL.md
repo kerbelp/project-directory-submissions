@@ -25,7 +25,7 @@ Keep campaign data in a private location chosen by the user or an ignored local 
 
 ## Find and qualify destinations
 
-Read [references/catalog.md](references/catalog.md) as a seed catalog when discovering candidates. Extend it with relevant destinations from user-supplied lists, official search results, or comparable products' public listings. A supplied post is a research lead; verify its claims at the destination.
+Read [references/catalog.md](references/catalog.md) and the relevant audience section of [additional directory candidates](references/directory-candidates.md) when discovering destinations. Together they provide 300+ research starting points. The machine-readable [candidate observations](references/directory-candidates.json) distinguish homepage observations from access-limited leads; neither establishes a tested submission workflow. Extend the catalog with relevant destinations from user-supplied lists, official search results, or comparable products' public listings. A supplied post is a research lead; verify its claims at the destination.
 
 For shortlisted sites, check the current official submission flow or rules for:
 

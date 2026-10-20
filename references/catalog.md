@@ -2,6 +2,8 @@
 
 Use these as research starting points. Verify each selected destination's current official rules, pricing, eligibility, and submission flow. A catalog entry is neither an endorsement nor permission to publish or buy. Homepage links are deliberate where a stable submission URL is unavailable; follow visible submission links rather than guessing paths.
 
+The full catalog now has **300+ directory research starting points**: the original entries below plus [328 additional candidates](directory-candidates.md), for **350 unique destinations** as of October 20, 2026. New candidates have dated sources and homepage/access observations, with cost and submission support explicitly unverified. See the [machine-readable list](directory-candidates.json) and [count summary](catalog-summary.json). These additions do not turn a historical pilot route into current verified support.
+
 ## Free and mixed options
 
 The following routes were observed during a 2026-10-15 project-submission pilot. These are historical observations; account state, eligibility, publication, and wait times vary. Product Hunt's official guide was also checked on that date. Recheck before each campaign.
